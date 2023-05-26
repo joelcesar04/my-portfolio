@@ -194,6 +194,12 @@ span {
   margin: 2rem 0 3rem;
 }
 
+.skills {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .skills h2 {
   margin-bottom: 5rem;
 }
